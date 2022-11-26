@@ -1,9 +1,9 @@
 module.exports = {
     app: {
-        token: 'MTA0NTc1NzU0ODg0Nzk2MDE3OA.GD7o_W.WWG-1_ggrbXXzPOTbQRAsaKf2h92k1CdLx620c',
+        token: 'your bots token',
         playing: 'Code.',
         global: true,
-        guild: '1040664139716116561'
+        guild: 'server id'
     },
 
     opt: {
